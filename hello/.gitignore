@@ -1,1 +1,4 @@
 *.img
+*.efi
+!hello_original_bin.efi
+*.o
